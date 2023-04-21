@@ -4,7 +4,11 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "JobsApp",
-    "slug": "JobsApp"
+    "name": "JobSearch",
+    "slug": "JobSearch",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icons/logo.png",
+    "description": "Find your perfect job with JobsApp"
   }
 }
